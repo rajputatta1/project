@@ -1,4 +1,4 @@
 # project
 This is my first repository of github.
 <br>
-Author: RA
+Author: RA(Atta)
